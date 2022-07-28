@@ -1,14 +1,14 @@
-<center style="padding-top: 12px;">
+<p align="center" style="padding-top: 12px; text-align: center;">
     <img src="assets/img/face.jpeg" style="border-radius: 32px; height: 165px; margin-bottom: 1.5rem; box-shadow:  20px 20px 60px rgba(190,190,190,0.12), -20px -20px 60px rgba(190,190,190,0.1);">
-    <h3 style="font-size: 18.5px;">Hey there! I'm Carlos!</h3>
-    <h4 style="font-size: 10.5px; letter-spacing: 1.1px; text-transform: uppercase;">Welcome to my Github Profile 👋 </h4>
-    <div style="padding-top: 8px;">
+    <h3 align="center" style="font-size: 18.5px;">Hey there! I'm Carlos!</h3>
+    <h4 align="center" style="font-size: 10.5px; letter-spacing: 1.1px; text-transform: uppercase;">Welcome to my Github Profile 👋 </h4>
+    <h5 align="center" style="padding-top: 8px;">
         <a href="https://github.com/carlosdevpereira?tab=followers">
             <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%232ccce4&style=for-the-badge"/>
         </a>
         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%232ccce4&labelStyle=upper"/>
-    </div>
-    <h5 style="margin-top: 12px;">
+    </h5>
+    <h5 align="center">
         <code>
             <a href="https://www.linkedin.com/in/carlosdevpereira/" title="LinkedIn Profile">
                 <img width="22px" src="assets/img/social/linkedin.png">
@@ -34,12 +34,12 @@
             </a>
         </code>
     </h5>
-</center>
+</p>
 
 <hr>
 
 <section style="margin: 16px 0;">
-    <h2 style="margin-bottom: 14px; text-align: center;">👨‍💻 About me</h2>
+    <h3 align="center" style="margin-bottom: 14px; text-align: center;">👨‍💻 About me</h3>
     <div style="max-width: 550px; margin: 0 auto; text-align: center;">
         I'm a software engineer from Portugal, with a taste for the front-end and automating repetitive tasks. Currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>, and freelancing from time to time.
     </div>
@@ -48,8 +48,8 @@
 <hr>
 
 <section style="text-align: center; margin: 16px 0;">
-    <h2 style="margin-bottom: 14px;">🤓 I'm a Vue nerd but I also use:</h2>
-    <h6 style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h3 align="center" style="margin-bottom: 14px;">🤓 I'm a Vue nerd but I also use:</h3>
+    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/HTML5"title="HTML 5">
                 <img style="width: 32px; height: 32px;" src="assets/img/tech/html.svg">
@@ -106,7 +106,7 @@
             </a>
         </code>
     </h6>
-    <h6 style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://laravel.com/"title="Laravel">
                 <img style="width: 32px; height: 32px;" src="assets/img/tech/laravel.png">
@@ -138,7 +138,7 @@
             </a>
         </code>
     </h6>
-    <h6 style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.postgresql.org/"title="PostgreSQL">
                 <img style="width: 32px; height: 32px;" src="assets/img/tech/postgresql.svg">
@@ -165,7 +165,7 @@
             </a>
         </code>
     </h6>
-    <h6 style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://git-scm.com/"title="Git">
                 <img style="width: 32px; height: 32px;" src="assets/img/tech/git.svg">
@@ -187,7 +187,7 @@
             </a>
         </code>
     </h6>
-    <h6 style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.docker.com/"title="Docker">
                 <img style="width: 32px; height: 32px;" src="assets/img/tech/docker.svg">
@@ -204,7 +204,7 @@
             </a>
         </code>
     </h6>
-    <h6 style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.vultr.com/?ref=7008860"title="Vultr">
                 <img style="width: 32px; height: 32px;" src="assets/img/tech/vultr.svg">
@@ -216,13 +216,15 @@
             </a>
         </code>
     </h6>
-    <img src="assets/img/vue-meme.jpeg">
+    <p align="center">
+        <img src="assets/img/vue-meme.jpeg">
+    </p>
     <hr style="margin-bottom: 1rem;">
-    <details>
-        <summary>📈 My GitHub Stats</summary>
+    <details align="center">
+        <summary align="center">📈 My GitHub Stats</summary>
         <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 8px;">
-            <img src ="https://github-readme-stats.vercel.app/api?username=carlosdevpereira&show_icons=true&count_private=true&hide_border=true&theme=vue" style="max-width: 350px; width: 95%;">
-            <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" style="max-width: 300px; width: 95%;">
+            <img src ="https://github-readme-stats.vercel.app/api?username=carlosdevpereira&show_icons=true&count_private=true&hide_border=true&theme=vue" width="60%">
+            <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="38%">
             <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
         </div>
     </details>
