@@ -52,167 +52,167 @@
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/HTML5"title="HTML 5">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/html.svg">
+                <img width="32px" height="32px" src="assets/img/tech/html.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/CSS3"title="CSS 3">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/css3.svg">
+                <img width="32px" height="32px" src="assets/img/tech/css3.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://sass-lang.com/"title="SASS/SCSS">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/sass.svg">
+                <img width="32px" height="32px" src="assets/img/tech/sass.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://getbootstrap.com/"title="Bootstrap">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/bootstrap.svg">
+                <img width="32px" height="32px" src="assets/img/tech/bootstrap.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://tailwindcss.com/"title="Tailwind">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/tailwind.svg">
+                <img width="32px" height="32px" src="assets/img/tech/tailwind.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"title="Javascript">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/javascript.svg">
+                <img width="32px" height="32px" src="assets/img/tech/javascript.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.typescriptlang.org/"title="Typescript">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/typescript.svg">
+                <img width="32px" height="32px" src="assets/img/tech/typescript.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://vuejs.org/"title="Vue">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/vue.svg">
+                <img width="32px" height="32px" src="assets/img/tech/vue.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://jestjs.io/"title="Jest">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/jest.png">
+                <img width="32px" height="32px" src="assets/img/tech/jest.png">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://vitejs.dev/"title="Vite">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/vite.svg">
+                <img width="32px" height="32px" src="assets/img/tech/vite.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://webpack.js.org/"title="Webpack">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/webpack.svg">
+                <img width="32px" height="32px" src="assets/img/tech/webpack.svg">
             </a>
         </code>
     </h6>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://laravel.com/"title="Laravel">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/laravel.png">
+                <img width="32px" height="32px" src="assets/img/tech/laravel.png">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.ruby-lang.org/"title="Ruby">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/ruby.svg">
+                <img width="32px" height="32px" src="assets/img/tech/ruby.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://rubyonrails.org/"title="Rails (Ruby on Rails)">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/rails.png">
+                <img width="32px" height="32px" src="assets/img/tech/rails.png">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://nodejs.org/"title="NodeJs">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/nodejs.svg">
+                <img width="32px" height="32px" src="assets/img/tech/nodejs.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://dotnet.microsoft.com/en-us/"title=".NET Core">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/dotnet.svg">
+                <img width="32px" height="32px" src="assets/img/tech/dotnet.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://go.dev/"title="Golang">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/golang.svg">
+                <img width="32px" height="32px" src="assets/img/tech/golang.svg">
             </a>
         </code>
     </h6>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.postgresql.org/"title="PostgreSQL">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/postgresql.svg">
+                <img width="32px" height="32px" src="assets/img/tech/postgresql.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://redis.io/"title="Redis">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/redis.svg">
+                <img width="32px" height="32px" src="assets/img/tech/redis.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.mysql.com/"title="MySql">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/mysql.svg">
+                <img width="32px" height="32px" src="assets/img/tech/mysql.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.mongodb.com/"title="MongoDB">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/mongodb.svg">
+                <img width="32px" height="32px" src="assets/img/tech/mongodb.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://graphql.org/"title="GraphQL">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/graphql.svg">
+                <img width="32px" height="32px" src="assets/img/tech/graphql.svg">
             </a>
         </code>
     </h6>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://git-scm.com/"title="Git">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/git.svg">
+                <img width="32px" height="32px" src="assets/img/tech/git.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://gitlab.com/"title="Gitlab">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/gitlab.svg">
+                <img width="32px" height="32px" src="assets/img/tech/gitlab.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://github.com/carlosdevpereira"title="Github">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/github.svg">
+                <img width="32px" height="32px" src="assets/img/tech/github.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://bitbucket.org/"title="Bitbucket">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/bitbucket.svg">
+                <img width="32px" height="32px" src="assets/img/tech/bitbucket.svg">
             </a>
         </code>
     </h6>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.docker.com/"title="Docker">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/docker.svg">
+                <img width="32px" height="32px" src="assets/img/tech/docker.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.nginx.com/"title="Nginx">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/nginx.svg">
+                <img width="32px" height="32px" src="assets/img/tech/nginx.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.jenkins.io/"title="Jenkins">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/jenkins.svg">
+                <img width="32px" height="32px" src="assets/img/tech/jenkins.svg">
             </a>
         </code>
     </h6>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.vultr.com/?ref=7008860"title="Vultr">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/vultr.svg">
+                <img width="32px" height="32px" src="assets/img/tech/vultr.svg">
             </a>
         </code>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://cloud.google.com/gcp"title="Google Cloud">
-                <img style="width: 32px; height: 32px;" src="assets/img/tech/google-cloud.svg">
+                <img width="32px" height="32px" src="assets/img/tech/google-cloud.svg">
             </a>
         </code>
     </h6>
