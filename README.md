@@ -40,8 +40,8 @@
 
 <section style="margin: 16px 0;">
     <h3 align="center" style="margin-bottom: 14px; text-align: center;">👨‍💻 About me</h3>
-    <div style="max-width: 550px; margin: 0 auto; text-align: center;">
-        I'm a software engineer from Portugal, with a taste for the front-end and automating repetitive tasks. Currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>, and freelancing from time to time.
+    <div align="center" style="max-width: 550px; margin: 0 auto; text-align: center;">
+        I'm a software engineer from Portugal, with a taste for the front-end and automating repetitive tasks. <br/> Currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>, and freelancing from time to time.
     </div>
 </section>
 
