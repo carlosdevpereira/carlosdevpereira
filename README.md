@@ -1,5 +1,5 @@
 <p align="center" style="padding-top: 12px; text-align: center;">
-    <img src="assets/img/face.jpeg" style="border-radius: 32px; height: 165px; margin-bottom: 1.5rem; box-shadow:  20px 20px 60px rgba(190,190,190,0.12), -20px -20px 60px rgba(190,190,190,0.1);">
+    <img src="assets/img/face.png" height="165px" style="margin-bottom: 1rem;">
     <h3 align="center" style="font-size: 18.5px;">Hey there! I'm Carlos!</h3>
     <h4 align="center" style="font-size: 10.5px; letter-spacing: 1.1px; text-transform: uppercase;">Welcome to my Github Profile 👋 </h4>
     <h5 align="center" style="padding-top: 8px;">
