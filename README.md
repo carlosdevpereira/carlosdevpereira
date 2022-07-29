@@ -219,6 +219,12 @@
     <p align="center">
         <img src="assets/img/vue-meme.jpeg">
     </p>
+     <p align="center">
+        <sup>
+            <strong>NOTE:</strong>
+            Icons from <a href="https://icons8.com/">Icons8</a> ❤️
+        </sup>
+    </p>
     <hr style="margin-bottom: 1rem;">
     <details align="center">
         <summary align="center">📈 My GitHub Stats</summary>
