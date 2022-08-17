@@ -10,25 +10,25 @@
     </h5>
     <h5 align="center">
         <code>
-            <a href="https://www.linkedin.com/in/carlosdevpereira/" title="LinkedIn Profile">
+            <a href="https://www.linkedin.com/in/carlosdevpereira/" target="_blank" title="LinkedIn Profile">
                 <img width="22px" src="assets/img/social/linkedin.png">
                 LinkedIn
             </a>
         </code>
         <code>
-            <a href="https://medium.com/@carlos.dev.pereira" title="Medium Profile">
+            <a href="https://medium.com/@carlosdevpereira" target="_blank" title="Medium Profile">
                 <img width="22px" src="assets/img/social/medium.png">
                 Medium
             </a>
         </code>
         <code>
-            <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" title="Stack Overflow Profile">
+            <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" target="_blank" title="Stack Overflow Profile">
                 <img width="22px" src="assets/img/social/stack-overflow.png"> 
                 Stack Overflow
             </a>
         </code>
         <code>
-            <a href="https://www.instagram.com/carlosdevpereira/" title="Instagram Profile">
+            <a href="https://www.instagram.com/carlosdevpereira/" target="_blank" title="Instagram Profile">
                 <img width="22px" src="assets/img/social/instagram.png">
                 Instagram
             </a>
