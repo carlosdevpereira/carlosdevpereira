@@ -6,11 +6,12 @@
     Welcome to my Github profile! I'm Carlos - a Software Engineer with a taste for the Front-End and automating repetitive tasks.
 </section>
 
-<h3>👨‍💻 About me</h3>
-<div>
-    I'm from Portugal and I'm currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>. <br>
-    Ocasionally I freelance for amazing companies and projects. <br>
-</div>
+<br>
+
+<strong>About me</strong>
+- I'm from Portugal and I'm currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>. <br>
+- I'm passionate about learning and exploring new technologies. <br>
+- Ocasionally I like to freelance for amazing companies and projects. <br>
 
 <br>
 
@@ -24,8 +25,10 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
 </p>
 
+<hr>
+
 <section>
-    <h3 >I'm proficient in Vue but I also use:</h3>
+    <strong>I'm proficient in Vue but I also use</strong>
     <h6>
         <strong>Front-End:</strong>
         <code>
@@ -201,7 +204,9 @@
     </h6>
 </section>
 
-<h3>What people say about me</h3>
+<br>
+
+<strong>What people say about me</strong>
 
 <table>
     <tr>
