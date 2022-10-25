@@ -1,54 +1,28 @@
-<p align="center" style="padding-top: 12px; text-align: center;">
-    <img src="assets/img/face.png" height="165px" style="margin-bottom: 1rem;">
-    <h3 align="center" style="font-size: 18.5px;">Hey there! I'm Carlos!</h3>
-    <h4 align="center" style="font-size: 10.5px; letter-spacing: 1.1px; text-transform: uppercase;">Welcome to my Github Profile 👋 </h4>
-    <h5 align="center" style="padding-top: 8px;">
-        <a href="https://github.com/carlosdevpereira?tab=followers">
-            <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%232ccce4&style=for-the-badge"/>
-        </a>
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%232ccce4&labelStyle=upper"/>
-    </h5>
-    <h5 align="center">
-        <code>
-            <a href="https://www.linkedin.com/in/carlosdevpereira/" target="_blank" title="LinkedIn Profile">
-                <img width="22px" src="assets/img/social/linkedin.png">
-                LinkedIn
-            </a>
-        </code>
-        <code>
-            <a href="https://medium.com/@carlosdevpereira" target="_blank" title="Medium Profile">
-                <img width="22px" src="assets/img/social/medium.png">
-                Medium
-            </a>
-        </code>
-        <code>
-            <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" target="_blank" title="Stack Overflow Profile">
-                <img width="22px" src="assets/img/social/stack-overflow.png"> 
-                Stack Overflow
-            </a>
-        </code>
-        <code>
-            <a href="https://www.instagram.com/carlosdevpereira/" target="_blank" title="Instagram Profile">
-                <img width="22px" src="assets/img/social/instagram.png">
-                Instagram
-            </a>
-        </code>
-    </h5>
+<p style="padding-top: 12px; text-align: center;">
+    <h2 style="font-size: 18.5px;">Hey there! 👋</h2>
 </p>
 
-<hr>
-
-<section style="margin: 16px 0;">
-    <h3 align="center" style="margin-bottom: 14px; text-align: center;">👨‍💻 About me</h3>
-    <div align="center" style="max-width: 550px; margin: 0 auto; text-align: center;">
-        I'm a software engineer from Portugal, with a taste for the front-end and automating repetitive tasks. <br/> Currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>, and freelancing from time to time.
-    </div>
+<section>
+    Welcome to my Github profile! I'm Carlos - a Software Engineer with a taste for the Front-End and automating repetitive tasks.
 </section>
 
+<h3>👨‍💻 About me</h3>
+<div>
+    I'm from Portugal and I'm currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>. <br>
+    Ocasionally I freelance for amazing companies and projects. <br>
+</div>
+
+<h6>
+    <a href="https://github.com/carlosdevpereira?tab=followers">
+        <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%2342b984&style=for-the-badge"/>
+    </a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%2342b984&labelStyle=upper"/>
+</h6>
+
 <hr>
 
-<section style="text-align: center; margin: 16px 0;">
-    <h3 align="center" style="margin-bottom: 14px;">🤓 I'm a Vue nerd but I also use:</h3>
+<section>
+    <h3 align="center">I'm proficient in Vue but I also use:</h3>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/HTML5"title="HTML 5">
@@ -216,23 +190,81 @@
             </a>
         </code>
     </h6>
-    <p align="center">
-        <img src="assets/img/vue-meme.jpeg">
-    </p>
      <p align="center">
+        <br>
         <sup>
             <strong>NOTE:</strong>
             Icons from <a href="https://icons8.com/">Icons8</a> ❤️
         </sup>
     </p>
-    <hr style="margin-bottom: 1rem;">
-    <details align="center">
-        <summary align="center">📈 My GitHub Stats</summary>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 8px;">
-            <img src ="https://github-readme-stats.vercel.app/api?username=carlosdevpereira&show_icons=true&count_private=true&hide_border=true&theme=vue" width="60%">
-            <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="38%">
-            <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
-        </div>
-    </details>
+    <p align="center">
+        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="35%">
+        <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
+    </p>
 </section>
 
+<hr>
+
+<h3>What people say about me</h3>
+
+<table>
+    <tr>
+        <td><img src="https://carlosdevpereira.com/img/testimonials/ibermeteo-logo-round.webp" width="120px" align="middle"/></td>
+        <td>
+            <sub>We are pleased to have Carlos Pereira as our freelance web developer. Over the past few years Carlos has been an integral part of the developments we have made in this area, and the partnership we have established has proved to be a clear winning bet! <br>
+We highlight his work capacity, proactivity in finding solutions for all our needs, without forgetting the clarity of communication and easy handling. His evolved knowledge in the latest technologies, also allow us, Ibermeteo, to provide a better service for our customers.
+            </sub> <br>
+            <sub><b>Tiago Rodrigues - Ibermeteo</b></sub> <sub>(29/01/2021)</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://carlosdevpereira.com/img/testimonials/ricardo-pires.webp" width="120px" align="middle"/></td>
+        <td>
+            <sub>Carlos, besides being a great person, is a great professional. Always attentive to detail and with the perspective of an excellent execution of the code he writes. Carlos is highly focused on his goals, always respecting the plannings. Today, as certainly in the future, it's always a pleasure to work with Carlos.
+            </sub> <br>
+            <sub><b>Ricardo Pires - Work Coleague</b></sub> <sub>(29/01/2021)</sub>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://carlosdevpereira.com/img/testimonials/tiago-freitas-round.webp" width="120px" align="middle"/></td>
+        <td>
+            <sub>Carlos has been an excellent co-worker, always ready to help and collaborate. Allied to this, he has a knowledge of new technologies far above the average, which makes his help and collaboration indispensable.
+With clear, concise and functional explanations, he never lets us down. It is easy to work like this!
+            </sub> <br>
+            <sub><b>Tiago Freitas - Work Coleague</b></sub> <sub>(08/03/2021)</sub>
+        </td>
+    </tr>
+    
+</table>
+
+<hr>
+
+<h5 align="center">
+    <code>
+        <a href="https://www.linkedin.com/in/carlosdevpereira/" target="_blank" title="LinkedIn Profile">
+            <img width="22px" src="assets/img/social/linkedin.png">
+            LinkedIn
+        </a>
+    </code>
+    <code>
+        <a href="https://medium.com/@carlosdevpereira" target="_blank" title="Medium Profile">
+            <img width="22px" src="assets/img/social/medium.png">
+            Medium
+        </a>
+    </code>
+    <code>
+        <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" target="_blank" title="Stack Overflow Profile">
+            <img width="22px" src="assets/img/social/stack-overflow.png"> 
+            Stack Overflow
+        </a>
+    </code>
+    <code>
+        <a href="https://www.instagram.com/carlosdevpereira/" target="_blank" title="Instagram Profile">
+            <img width="22px" src="assets/img/social/instagram.png">
+            Instagram
+        </a>
+    </code>
+    <h6 align="center">
+        @carlosdevpereira
+    </h6>
+</h5>
