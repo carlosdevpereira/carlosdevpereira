@@ -22,8 +22,9 @@
 <hr>
 
 <section>
-    <h3 align="center">I'm proficient in Vue but I also use:</h3>
-    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h3 >I'm proficient in Vue but I also use:</h3>
+    <h6>
+        <strong>Front-End:</strong>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/HTML5"title="HTML 5">
                 <img width="32px" height="32px" src="assets/img/tech/html.svg">
@@ -80,7 +81,8 @@
             </a>
         </code>
     </h6>
-    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6>
+        <strong>Back-End:</strong>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://laravel.com/"title="Laravel">
                 <img width="32px" height="32px" src="assets/img/tech/laravel.png">
@@ -112,15 +114,11 @@
             </a>
         </code>
     </h6>
-    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6>
+        <strong>Databases:</strong>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.postgresql.org/"title="PostgreSQL">
                 <img width="32px" height="32px" src="assets/img/tech/postgresql.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://redis.io/"title="Redis">
-                <img width="32px" height="32px" src="assets/img/tech/redis.svg">
             </a>
         </code>
         <code>
@@ -134,12 +132,18 @@
             </a>
         </code>
         <code>
+            <a style="display: flex; flex-direction: column; align-items: center;" href="https://redis.io/"title="Redis">
+                <img width="32px" height="32px" src="assets/img/tech/redis.svg">
+            </a>
+        </code>
+         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://graphql.org/"title="GraphQL">
                 <img width="32px" height="32px" src="assets/img/tech/graphql.svg">
             </a>
         </code>
     </h6>
-    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6>
+        <strong>Version control:</strong>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://git-scm.com/"title="Git">
                 <img width="32px" height="32px" src="assets/img/tech/git.svg">
@@ -161,7 +165,8 @@
             </a>
         </code>
     </h6>
-    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
+    <h6>
+        <strong>DevOps:</strong>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.docker.com/"title="Docker">
                 <img width="32px" height="32px" src="assets/img/tech/docker.svg">
@@ -178,26 +183,20 @@
             </a>
         </code>
     </h6>
-    <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.vultr.com/?ref=7008860"title="Vultr">
-                <img width="32px" height="32px" src="assets/img/tech/vultr.svg">
-            </a>
-        </code>
+    <h6>
+        <strong>Cloud providers:</strong>
         <code>
             <a style="display: flex; flex-direction: column; align-items: center;" href="https://cloud.google.com/gcp"title="Google Cloud">
                 <img width="32px" height="32px" src="assets/img/tech/google-cloud.svg">
             </a>
         </code>
+        <code>
+            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.vultr.com/?ref=7008860"title="Vultr">
+                <img width="32px" height="32px" src="assets/img/tech/vultr.svg">
+            </a>
+        </code>
     </h6>
-     <p align="center">
-        <br>
-        <sup>
-            <strong>NOTE:</strong>
-            Icons from <a href="https://icons8.com/">Icons8</a> ❤️
-        </sup>
-    </p>
-    <p align="center">
+    <p>
         <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="35%">
         <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
     </p>
@@ -265,6 +264,11 @@ With clear, concise and functional explanations, he never lets us down. It is ea
         </a>
     </code>
     <h6 align="center">
-        @carlosdevpereira
+        --- @carlosdevpereira ---
+        <p align="center">
+            <sub>
+                Icons from <a href="https://icons8.com/">Icons8</a> ❤️
+            </sub>
+        </p>
     </h6>
 </h5>
