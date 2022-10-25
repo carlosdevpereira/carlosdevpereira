@@ -12,14 +12,17 @@
     Ocasionally I freelance for amazing companies and projects. <br>
 </div>
 
-<h6>
-    <a href="https://github.com/carlosdevpereira?tab=followers">
-        <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%2342b984&style=for-the-badge"/>
-    </a>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%2342b984&labelStyle=upper"/>
-</h6>
+<br>
 
-<hr>
+<strong>
+    <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%2342b984&style=for-the-badge"/>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%2342b984&labelStyle=upper"/>
+</strong>
+
+<p>
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="35%">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
+</p>
 
 <section>
     <h3 >I'm proficient in Vue but I also use:</h3>
@@ -196,13 +199,7 @@
             </a>
         </code>
     </h6>
-    <p>
-        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="35%">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
-    </p>
 </section>
-
-<hr>
 
 <h3>What people say about me</h3>
 
