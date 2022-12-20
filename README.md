@@ -9,6 +9,7 @@
 <br>
 
 <strong>About me</strong>
+
 - I'm from Portugal and I'm currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>. <br>
 - I'm passionate about learning and exploring new technologies. <br>
 - Ocasionally I like to freelance for amazing companies and projects. <br>
@@ -31,176 +32,114 @@
     <strong>I'm proficient in Vue but I also use</strong>
     <h6>
         <strong>Front-End:</strong>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/HTML5"title="HTML 5">
-                <img width="32px" height="32px" src="assets/img/tech/html.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://wikipedia.org/wiki/CSS3"title="CSS 3">
-                <img width="32px" height="32px" src="assets/img/tech/css3.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://sass-lang.com/"title="SASS/SCSS">
-                <img width="32px" height="32px" src="assets/img/tech/sass.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://getbootstrap.com/"title="Bootstrap">
-                <img width="32px" height="32px" src="assets/img/tech/bootstrap.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://tailwindcss.com/"title="Tailwind">
-                <img width="32px" height="32px" src="assets/img/tech/tailwind.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"title="Javascript">
-                <img width="32px" height="32px" src="assets/img/tech/javascript.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.typescriptlang.org/"title="Typescript">
-                <img width="32px" height="32px" src="assets/img/tech/typescript.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://vuejs.org/"title="Vue">
-                <img width="32px" height="32px" src="assets/img/tech/vue.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://jestjs.io/"title="Jest">
-                <img width="32px" height="32px" src="assets/img/tech/jest.png">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://vitejs.dev/"title="Vite">
-                <img width="32px" height="32px" src="assets/img/tech/vite.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://webpack.js.org/"title="Webpack">
-                <img width="32px" height="32px" src="assets/img/tech/webpack.svg">
-            </a>
-        </code>
+        <a href="https://wikipedia.org/wiki/HTML5"title="HTML 5">
+            <img width="32px" height="32px" src="assets/img/tech/html.svg">
+        </a>
+        <a href="https://wikipedia.org/wiki/CSS3"title="CSS 3">
+            <img width="32px" height="32px" src="assets/img/tech/css3.svg">
+        </a>
+        <a href="https://sass-lang.com/"title="SASS/SCSS">
+            <img width="32px" height="32px" src="assets/img/tech/sass.svg">
+        </a>
+        <a href="https://getbootstrap.com/"title="Bootstrap">
+            <img width="32px" height="32px" src="assets/img/tech/bootstrap.svg">
+        </a>
+        <a href="https://tailwindcss.com/"title="Tailwind">
+            <img width="32px" height="32px" src="assets/img/tech/tailwind.svg">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"title="Javascript">
+            <img width="32px" height="32px" src="assets/img/tech/javascript.svg">
+        </a>
+        <a href="https://www.typescriptlang.org/"title="Typescript">
+            <img width="32px" height="32px" src="assets/img/tech/typescript.svg">
+        </a>
+        <a href="https://vuejs.org/"title="Vue">
+            <img width="32px" height="32px" src="assets/img/tech/vue.svg">
+        </a>
+        <a href="https://jestjs.io/"title="Jest">
+            <img width="32px" height="32px" src="assets/img/tech/jest.png">
+        </a>
+        <a href="https://vitejs.dev/"title="Vite">
+            <img width="32px" height="32px" src="assets/img/tech/vite.svg">
+        </a>
+        <a href="https://webpack.js.org/"title="Webpack">
+            <img width="32px" height="32px" src="assets/img/tech/webpack.svg">
+        </a>
     </h6>
     <h6>
         <strong>Back-End:</strong>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://laravel.com/"title="Laravel">
-                <img width="32px" height="32px" src="assets/img/tech/laravel.png">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.ruby-lang.org/"title="Ruby">
-                <img width="32px" height="32px" src="assets/img/tech/ruby.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://rubyonrails.org/"title="Rails (Ruby on Rails)">
-                <img width="32px" height="32px" src="assets/img/tech/rails.png">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://nodejs.org/"title="NodeJs">
-                <img width="32px" height="32px" src="assets/img/tech/nodejs.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://dotnet.microsoft.com/en-us/"title=".NET Core">
-                <img width="32px" height="32px" src="assets/img/tech/dotnet.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://go.dev/"title="Golang">
-                <img width="32px" height="32px" src="assets/img/tech/golang.svg">
-            </a>
-        </code>
+        <a href="https://laravel.com/"title="Laravel">
+            <img width="32px" height="32px" src="assets/img/tech/laravel.png">
+        </a>
+        <a href="https://www.ruby-lang.org/"title="Ruby">
+            <img width="32px" height="32px" src="assets/img/tech/ruby.svg">
+        </a>
+        <a href="https://rubyonrails.org/"title="Rails (Ruby on Rails)">
+            <img width="32px" height="32px" src="assets/img/tech/rails.png">
+        </a>
+        <a href="https://nodejs.org/"title="NodeJs">
+            <img width="32px" height="32px" src="assets/img/tech/nodejs.svg">
+        </a>
+        <a href="https://dotnet.microsoft.com/en-us/"title=".NET Core">
+            <img width="32px" height="32px" src="assets/img/tech/dotnet.svg">
+        </a>
+        <a href="https://go.dev/"title="Golang">
+            <img width="32px" height="32px" src="assets/img/tech/golang.svg">
+        </a>
     </h6>
     <h6>
         <strong>Databases:</strong>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.postgresql.org/"title="PostgreSQL">
-                <img width="32px" height="32px" src="assets/img/tech/postgresql.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.mysql.com/"title="MySql">
-                <img width="32px" height="32px" src="assets/img/tech/mysql.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.mongodb.com/"title="MongoDB">
-                <img width="32px" height="32px" src="assets/img/tech/mongodb.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://redis.io/"title="Redis">
-                <img width="32px" height="32px" src="assets/img/tech/redis.svg">
-            </a>
-        </code>
-         <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://graphql.org/"title="GraphQL">
-                <img width="32px" height="32px" src="assets/img/tech/graphql.svg">
-            </a>
-        </code>
+        <a href="https://www.postgresql.org/"title="PostgreSQL">
+            <img width="32px" height="32px" src="assets/img/tech/postgresql.svg">
+        </a>
+        <a href="https://www.mysql.com/"title="MySql">
+            <img width="32px" height="32px" src="assets/img/tech/mysql.svg">
+        </a>
+        <a href="https://www.mongodb.com/"title="MongoDB">
+            <img width="32px" height="32px" src="assets/img/tech/mongodb.svg">
+        </a>
+        <a href="https://redis.io/"title="Redis">
+            <img width="32px" height="32px" src="assets/img/tech/redis.svg">
+        </a>
+        <a href="https://graphql.org/"title="GraphQL">
+            <img width="32px" height="32px" src="assets/img/tech/graphql.svg">
+        </a>
     </h6>
     <h6>
         <strong>Version control:</strong>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://git-scm.com/"title="Git">
-                <img width="32px" height="32px" src="assets/img/tech/git.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://gitlab.com/"title="Gitlab">
-                <img width="32px" height="32px" src="assets/img/tech/gitlab.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://github.com/carlosdevpereira"title="Github">
-                <img width="32px" height="32px" src="assets/img/tech/github.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://bitbucket.org/"title="Bitbucket">
-                <img width="32px" height="32px" src="assets/img/tech/bitbucket.svg">
-            </a>
-        </code>
+        <a href="https://git-scm.com/"title="Git">
+            <img width="32px" height="32px" src="assets/img/tech/git.svg">
+        </a>
+        <a href="https://gitlab.com/"title="Gitlab">
+            <img width="32px" height="32px" src="assets/img/tech/gitlab.svg">
+        </a>
+        <a href="https://github.com/carlosdevpereira"title="Github">
+            <img width="32px" height="32px" src="assets/img/tech/github.svg">
+        </a>
+        <a href="https://bitbucket.org/"title="Bitbucket">
+            <img width="32px" height="32px" src="assets/img/tech/bitbucket.svg">
+        </a>
     </h6>
     <h6>
         <strong>DevOps:</strong>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.docker.com/"title="Docker">
-                <img width="32px" height="32px" src="assets/img/tech/docker.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.nginx.com/"title="Nginx">
-                <img width="32px" height="32px" src="assets/img/tech/nginx.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.jenkins.io/"title="Jenkins">
-                <img width="32px" height="32px" src="assets/img/tech/jenkins.svg">
-            </a>
-        </code>
+        <a href="https://www.docker.com/"title="Docker">
+            <img width="32px" height="32px" src="assets/img/tech/docker.svg">
+        </a>
+        <a href="https://www.nginx.com/"title="Nginx">
+            <img width="32px" height="32px" src="assets/img/tech/nginx.svg">
+        </a>
+        <a href="https://www.jenkins.io/"title="Jenkins">
+            <img width="32px" height="32px" src="assets/img/tech/jenkins.svg">
+        </a>
     </h6>
     <h6>
         <strong>Cloud providers:</strong>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://cloud.google.com/gcp"title="Google Cloud">
-                <img width="32px" height="32px" src="assets/img/tech/google-cloud.svg">
-            </a>
-        </code>
-        <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.vultr.com/?ref=7008860"title="Vultr">
-                <img width="32px" height="32px" src="assets/img/tech/vultr.svg">
-            </a>
-        </code>
+        <a href="https://cloud.google.com/gcp"title="Google Cloud">
+            <img width="32px" height="32px" src="assets/img/tech/google-cloud.svg">
+        </a>
+        <a href="https://www.vultr.com/?ref=7008860"title="Vultr">
+            <img width="32px" height="32px" src="assets/img/tech/vultr.svg">
+        </a>
     </h6>
 </section>
 
@@ -241,30 +180,22 @@ With clear, concise and functional explanations, he never lets us down. It is ea
 <hr>
 
 <h5 align="center">
-    <code>
-        <a href="https://www.linkedin.com/in/carlosdevpereira/" target="_blank" title="LinkedIn Profile">
-            <img width="22px" src="assets/img/social/linkedin.png">
-            LinkedIn
-        </a>
-    </code>
-    <code>
-        <a href="https://medium.com/@carlosdevpereira" target="_blank" title="Medium Profile">
-            <img width="22px" src="assets/img/social/medium.png">
-            Medium
-        </a>
-    </code>
-    <code>
-        <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" target="_blank" title="Stack Overflow Profile">
-            <img width="22px" src="assets/img/social/stack-overflow.png"> 
-            Stack Overflow
-        </a>
-    </code>
-    <code>
-        <a href="https://www.instagram.com/carlosdevpereira/" target="_blank" title="Instagram Profile">
-            <img width="22px" src="assets/img/social/instagram.png">
-            Instagram
-        </a>
-    </code>
+    <a href="https://www.linkedin.com/in/carlosdevpereira/" target="_blank" title="LinkedIn Profile">
+        <img width="22px" src="assets/img/social/linkedin.png">
+        LinkedIn
+    </a>
+    <a href="https://medium.com/@carlosdevpereira" target="_blank" title="Medium Profile">
+        <img width="22px" src="assets/img/social/medium.png">
+        Medium
+    </a>
+    <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" target="_blank" title="Stack Overflow Profile">
+        <img width="22px" src="assets/img/social/stack-overflow.png"> 
+        Stack Overflow
+    </a>
+    <a href="https://www.instagram.com/carlosdevpereira/" target="_blank" title="Instagram Profile">
+        <img width="22px" src="assets/img/social/instagram.png">
+        Instagram
+    </a>
     <h6 align="center">
         --- @carlosdevpereira ---
         <p align="center">
