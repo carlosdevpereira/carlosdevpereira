@@ -149,7 +149,7 @@
 
 <table>
     <tr>
-        <td><img src="https://carlosdevpereira.com/img/testimonials/ibermeteo-logo-round.webp" width="120px" align="middle"/></td>
+        <td><img src="assets/img/testimonials/ibermeteo-logo.webp" width="120px" align="middle" /></td>
         <td>
             <sub>We are pleased to have Carlos Pereira as our freelance web developer. Over the past few years Carlos has been an integral part of the developments we have made in this area, and the partnership we have established has proved to be a clear winning bet! <br>
 We highlight his work capacity, proactivity in finding solutions for all our needs, without forgetting the clarity of communication and easy handling. His evolved knowledge in the latest technologies, also allow us, Ibermeteo, to provide a better service for our customers.
@@ -158,7 +158,7 @@ We highlight his work capacity, proactivity in finding solutions for all our nee
         </td>
     </tr>
     <tr>
-        <td align="center"><img src="https://carlosdevpereira.com/img/testimonials/ricardo-pires.webp" width="120px" align="middle"/></td>
+        <td align="center"><img src="assets/img/testimonials/ricardo-pires.webp" width="120px" align="middle"/></td>
         <td>
             <sub>Carlos, besides being a great person, is a great professional. Always attentive to detail and with the perspective of an excellent execution of the code he writes. Carlos is highly focused on his goals, always respecting the plannings. Today, as certainly in the future, it's always a pleasure to work with Carlos.
             </sub> <br>
@@ -166,7 +166,7 @@ We highlight his work capacity, proactivity in finding solutions for all our nee
         </td>
     </tr>
     <tr>
-        <td><img src="https://carlosdevpereira.com/img/testimonials/tiago-freitas-round.webp" width="120px" align="middle"/></td>
+        <td><img src="assets/img/testimonials/tiago-freitas.webp" width="120px" align="middle"/></td>
         <td>
             <sub>Carlos has been an excellent co-worker, always ready to help and collaborate. Allied to this, he has a knowledge of new technologies far above the average, which makes his help and collaboration indispensable.
 With clear, concise and functional explanations, he never lets us down. It is easy to work like this!
