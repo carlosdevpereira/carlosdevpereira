@@ -174,7 +174,17 @@ With clear, concise and functional explanations, he never lets us down. It is ea
             <sub><b>Tiago Freitas - Work Coleague</b></sub> <sub>(08/03/2021)</sub>
         </td>
     </tr>
-    
+     <tr>
+        <td><img src="assets/img/testimonials/ricardo-ribeiro.webp" width="120px" align="middle"/></td>
+        <td>
+            <sub>Carlos is truly one of the best colleagues I've had the privilege of working alongside. From the early days of our collaboration, he's consistently delivered exceptional work and demonstrated an insatiable appetite for learning. Starting his journey at a young age, his growth has been remarkable.
+<br/> His adaptability shines as he seamlessly transitions from Vue.js frontend projects to various frameworks and multiple backends. <br/> What's truly impressive is his unwavering dedication to staying at the forefront of new technologies. His contributions to open-source projects and his personal ventures like building servers exemplify this commitment.
+<br/> What sets Carlos apart is not just his technical prowess, but his genuine eagerness to share his knowledge and collaborate with teammates. He's an approachable individual who thrives on finding solutions. His likable nature and problem-solving skills make him an invaluable asset.
+<br/> Beyond being a talented developer, Carlos is a driving force within his team. His dedication to improvement is contagious, and the impact of his contributions on the projects is undeniable. It's inspiring to see his enthusiasm for progress, and I'm excited to see what he will bring next to the world.
+            </sub> <br>
+            <sub><b>Ricardo Ribeiro - Engineering Lead</b></sub> <sub>(21/08/2023)</sub>
+        </td>
+    </tr>
 </table>
 
 <hr>
