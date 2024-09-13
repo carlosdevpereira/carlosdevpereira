@@ -6,25 +6,14 @@
     Welcome to my Github profile! I'm Carlos - a Software Engineer with a taste for the Front-End and automating repetitive tasks.
 </section>
 
-<br>
+<br/>
 
-<strong>About me</strong>
+<strong>About me</strong> 
 
-- I'm from Portugal and I'm currently working full time in the health sector for <a href="https://knokcare.com/">Knok</a>. <br>
+- I'm a Software Engineer based on Portugal and I currently work full time in the health sector for <a href="https://knokcare.com/">Knok</a>. <br>
+- I'm a fitness enthusiast, on a mission to transform mind and body every day!  <br>
 - I'm passionate about learning and exploring new technologies. <br>
-- Ocasionally I like to freelance for amazing companies and projects. <br>
-
-<br>
-
-<strong>
-    <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%2342b984&style=for-the-badge"/>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%2342b984&labelStyle=upper"/>
-</strong>
-
-<p>
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevpereira&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="38%">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlosdevpereira&hide_border=true&theme=vue">
-</p>
+- Ocasionally I freelance for amazing companies and projects. <br>
 
 <hr>
 
@@ -143,7 +132,7 @@
     </h6>
 </section>
 
-<br>
+<hr/>
 
 <strong>What people say about me</strong>
 
@@ -187,16 +176,17 @@ With clear, concise and functional explanations, he never lets us down. It is ea
     </tr>
 </table>
 
+<h5 align="center">
+    <img src="https://img.shields.io/github/followers/carlosdevpereira?color=%2342b984&style=for-the-badge"/>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarlosdevpereira%2Fcarlosdevpereira&countColor=%2342b984&labelStyle=upper"/>
+</h5>
+
 <hr>
 
 <h5 align="center">
     <a href="https://www.linkedin.com/in/carlosdevpereira/" target="_blank" title="LinkedIn Profile">
         <img width="22px" src="assets/img/social/linkedin.png">
         LinkedIn
-    </a>
-    <a href="https://medium.com/@carlosdevpereira" target="_blank" title="Medium Profile">
-        <img width="22px" src="assets/img/social/medium.png">
-        Medium
     </a>
     <a href="https://stackoverflow.com/users/6718719/carlosdevpereira" target="_blank" title="Stack Overflow Profile">
         <img width="22px" src="assets/img/social/stack-overflow.png"> 
